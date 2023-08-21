@@ -1,4 +1,9 @@
 # open recon and open apps demo
+## Table of Contents
+**[How to setup the python environment](#How-to-setup-the-python-environment)**<br>
+**[How to modify OpenApps sample](#How-to-modify-OpenApps-sample)**<br>
+
+## How to setup the python environment
 
 open recon and open apps demo files
 1.	Download the PyCharm community edition and install it.
