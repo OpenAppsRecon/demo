@@ -1,6 +1,5 @@
 
-# Hands-On: OpenAppsRecon
-## Follow these steps to work with the OpenAppsRecon demo:
+# Hands-On: OpenAppsRecon. Follow below steps:
 
 1. Make sure you have a Python development environment set up. If not, refer to the instructions https://github.com/OpenAppsRecon/demo for guidance on setting up the Python development environment.
 
