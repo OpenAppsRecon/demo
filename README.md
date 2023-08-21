@@ -20,7 +20,7 @@ https://www.python.org/downloads/
 
 Enjoy the session
 ### How to modify OpenApps sample
-1. Browse to the folder OpenApps in Project pane in the left of the window
+1. Browse the folder 'OpenApps' in Project pane present on the left of your workspace.
 2. Double click on the file 'main.py'
    ( This is a sample program
      It reads 2 dicom series – T1 images and Flair images which are available in the 'data' folder
@@ -31,10 +31,6 @@ Enjoy the session
     )
 3. Replace the logic of finding the difference between two images to your own logic. For instance thresholding, inverting, masking the images etc.
    It can be done in the function "def computeResult(t1_data, flair_data)" in the line number 52
-4. Select the current file in ![image](https://github.com/OpenAppsRecon/demo/assets/142770538/b6fc629e-a4c2-4d9d-b0c2-c08e64a72e06) in top right corner of the window
-
+4. Select the current file in ![image](https://github.com/OpenAppsRecon/demo/assets/142770538/b6fc629e-a4c2-4d9d-b0c2-c08e64a72e06) in the top right corner of the window
 5. Run the application by clicking the button ![image](https://github.com/OpenAppsRecon/demo/assets/142770538/57f76a87-b6fe-41e7-9b06-cb5cdbec9122) in the top right corner of the window
-6. You can also debug the applicaiton by clicking the button ![image](https://github.com/OpenAppsRecon/demo/assets/142770538/a2e80267-a69f-43d2-91e0-a8340d24ca6d) in the right corner of the window
-
-
-   
+6. You can also debug the applicaiton by clicking the button ![image](https://github.com/OpenAppsRecon/demo/assets/142770538/a2e80267-a69f-43d2-91e0-a8340d24ca6d) in the top right corner of the window  
