@@ -20,4 +20,5 @@ https://www.python.org/downloads/
 
 Enjoy the session
 ### How to modify OpenApps sample
-1. Download 
+1. Download entire 'OpenApps' folder and copy it in to the folder where 'helloworld' is copied
+2. Open pycharm
