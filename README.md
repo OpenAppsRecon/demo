@@ -1,4 +1,5 @@
 # open recon and open apps demo
+
 open recon and open apps demo files
 1.	Download the PyCharm community edition and install it.
 https://www.jetbrains.com/pycharm/download/?section=windows
@@ -19,6 +20,7 @@ https://www.python.org/downloads/
   b.	 Run the welcome.py file.
 
 Enjoy the session
+
 ### How to modify OpenApps sample
 1. Browse the folder 'OpenApps' in Project pane present to the left of your workspace.
 2. Double click on the file 'main.py'
