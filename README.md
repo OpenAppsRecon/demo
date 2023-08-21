@@ -20,3 +20,4 @@ https://www.python.org/downloads/
 
 Enjoy the session
 ### How to modify OpenApps sample
+1. Download 
