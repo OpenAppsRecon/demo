@@ -8,6 +8,7 @@
 3. Download the sample Python file for performing a reconstruction from https://github.com/OpenAppsRecon/demo/tree/main/OpenRecon/recon_nparray.py. Save the downloaded file to your Python installation folder.
 
 4. Execute the sample program recon_nparray.py and observe the results in your setup. The expected output should appear as below:
+![image](https://github.com/OpenAppsRecon/demo/assets/142770538/a38d85fa-d3ed-489d-9025-0b3a24114583)
 
 5. Modify the recon_nparray.py sample program according to your needs. For example, you can try inverting the data or implementing other changes.
 
