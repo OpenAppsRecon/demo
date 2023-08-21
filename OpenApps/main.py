@@ -8,7 +8,7 @@ import sys
 import logging
 import matplotlib.pyplot as plt
 
-isDebug = False
+isDebug = True
 
 Logger = logging.getLogger(__name__)
 handler = logging.StreamHandler(sys.stdout)
