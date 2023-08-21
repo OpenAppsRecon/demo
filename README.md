@@ -19,4 +19,4 @@ https://www.python.org/downloads/
   b.	 Run the welcome.py file.
 
 Enjoy the session
-## How to modify OpenApps sample
+### How to modify OpenApps sample
