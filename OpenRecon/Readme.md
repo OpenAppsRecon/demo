@@ -1,5 +1,5 @@
 
-# OpenRecon Hands-On - Follow below steps:
+# OpenRecon Hands On - Follow below steps:
 
 1. Make sure you have a Python development environment set up. If not, refer to the instructions from https://github.com/OpenAppsRecon/demo for guidance on setting up the Python development environment.
 
