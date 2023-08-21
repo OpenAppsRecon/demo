@@ -22,13 +22,9 @@ Enjoy the session
 ### How to modify OpenApps sample
 1. Browse the folder 'OpenApps' in Project pane present to the left of your workspace.
 2. Double click on the file 'main.py'
-   ( This is a sample program
-     It reads 2 dicom series – T1 images and Flair images which are available in the 'data' folder
-     It finds the difference between T1 and Flair images
-     It displays the result in the pane right side of your window
-     It converts the result which is in numpy array DICOM images
-     Finally it exports the results to syngo via
-    )
+   ( This is a sample program. 
+     It reads 2 dicom series – T1 images and Flair images which are available in the 'data' folder, finds the difference between T1 and Flair images, displays the result in the pane right side of your window, 
+     and converts the result which is in numpy array to DICOM images. Finally it exports the results to syngo via. )
 3. Replace the logic of finding the difference between two images to your own logic. For instance thresholding, inverting, masking the images etc.
    It can be done in the function "def computeResult(t1_data, flair_data)" in the line number 52
 4. Select the current file in ![image](https://github.com/OpenAppsRecon/demo/assets/142770538/b6fc629e-a4c2-4d9d-b0c2-c08e64a72e06) in the top right corner of the window
