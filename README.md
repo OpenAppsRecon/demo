@@ -20,7 +20,7 @@ https://www.python.org/downloads/
 
 Enjoy the session
 ### How to modify OpenApps sample
-1. Browse the folder 'OpenApps' in Project pane present on the left of your workspace.
+1. Browse the folder 'OpenApps' in Project pane present to the left of your workspace.
 2. Double click on the file 'main.py'
    ( This is a sample program
      It reads 2 dicom series – T1 images and Flair images which are available in the 'data' folder
