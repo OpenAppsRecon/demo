@@ -4,8 +4,10 @@
 1. Make sure you have setup Python development environment. If not, refer to the instructions from https://github.com/OpenAppsRecon/demo for guidance on setting up the Python development environment.
 
 2. Download the Siemens raw data converted to Python NumPy format from https://github.com/OpenAppsRecon/demo/tree/main/OpenRecon/raw.npy.
+   (If already downloaded as part of the entire GitHub repo, then this step is not needed)
 
 3. Download the sample Python file for performing a reconstruction from https://github.com/OpenAppsRecon/demo/tree/main/OpenRecon/recon_nparray.py.
+   (If already downloaded as part of the entire GitHub repo, then this step is not needed)
 
 4. Execute the sample program nparray-call.py from https://github.com/OpenAppsRecon/demo/tree/main/OpenRecon/nparray-call.py.
 <BR>The expected output:
@@ -21,4 +23,4 @@
 
 6. Open the nparray-call.py file in your Python IDE and execute it. For instructions on how to execute, refer to the instructions provided at https://github.com/OpenAppsRecon/demo.
 
-7. Once you have a working Python code (modified recon_nparray.py), you can hand it over for integration.
+7. Once you have a working Python code (i.e., the modified recon_nparray.py), you can hand it over for integration.
