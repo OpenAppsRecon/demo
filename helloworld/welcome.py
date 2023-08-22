@@ -3,7 +3,7 @@ import SimpleITK as sitk
 import numpy as np
 
 
-in_file = r"D:\UserData\ic017129\OneDrive - Siemens Healthineers\Punith\Office\Presentations\ASMRM\mprage.nii.gz"
+in_file = r"data/mprage.nii.gz"
 
 def read_nifty_image(in_file):
     return  sitk.ReadImage(in_file)
