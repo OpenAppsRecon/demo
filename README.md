@@ -1,9 +1,10 @@
-# open recon and open apps demo
+# open research platform demo and hands on session
 ## Table of Contents
-**[How to setup the python environment](#How-to-setup-the-python-environment)**<br>
-**[How to modify OpenApps sample](#How-to-modify-OpenApps-sample)**<br>
+**[How to setup the python environment](#SetupEnvironment)**<br>
+**[Exercise 1: Integrating post-processing algo using Open Apps platform](#Exercise1)**<br>
+**[Exercise 2: Integrating reconstruction algo using Open Recon platform](#Exercise2)**<br>
 
-## How to setup the Python environment
+## <a name='SetupEnvironment'></a>How to setup the Python environment
 
 open recon and open apps demo files
 1.	Download the PyCharm community edition and install it.
@@ -46,9 +47,12 @@ https://www.python.org/downloads/
    
 11.	Open helloworld/welcome.py and run file.
 
+12.	Now you can start with either of the two below exercises (reconstruction or postprocessing) based on your preference. 
+	
+
 Enjoy the session
 
-### How to modify OpenApps sample
+### <a name='Exercise1'></a>Exercise 1: Integrating post-processing algo using Open Apps platform
 1. Browse the folder 'OpenApps' in Project pane present to the left of your workspace.
 2. Double click on the file 'main.py'
    ( *This is a sample program. 
@@ -70,3 +74,7 @@ Enjoy the session
 5. Select the current file in ![image](https://github.com/OpenAppsRecon/demo/assets/142770538/b6fc629e-a4c2-4d9d-b0c2-c08e64a72e06) in the top right corner of the window
 6. Run the application by clicking the button ![image](https://github.com/OpenAppsRecon/demo/assets/142770538/57f76a87-b6fe-41e7-9b06-cb5cdbec9122) in the top right corner of the window
 7. You can also debug the applicaiton by clicking the button ![image](https://github.com/OpenAppsRecon/demo/assets/142770538/a2e80267-a69f-43d2-91e0-a8340d24ca6d) in the top right corner of the window  
+
+
+### <a name='Excercise2'></a>Excercise 2: Integrating reconstruction algo using Open Recon platform
+
