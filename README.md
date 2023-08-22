@@ -59,7 +59,7 @@ Enjoy the session
      It reads 2 dicom series – T1 images and Flair images which are available in the 'data' folder, finds the difference between T1 and Flair images, displays the result in the pane right side of your window, 
      and converts the result which is in numpy array to DICOM images. Finally it exports the results to syngo via.* )
 3. Replace the logic of finding the difference between two images to your own logic. For instance thresholding, inverting, masking the images etc.
-   It can be done in the function "def computeResult(t1_data, flair_data)" in the line number 52
+   It can be done in the function ["def computeResult(t1_data, flair_data)"](https://github.com/OpenAppsRecon/demo/blob/main/OpenApps/main.py#L52) in the line number 52
   
    ```
      def computeResult(t1_data, flair_data):  
