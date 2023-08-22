@@ -30,15 +30,21 @@ https://www.python.org/downloads/
 6. Click on the button  ![image](https://github.com/OpenAppsRecon/demo/assets/142770538/48018137-a52f-43cc-abd0-ed28e018b1b0) to open the project, below window appears
 
 7. Browse to the folder where you have downloaded the project from the Githut repository.
+    ![image](https://github.com/OpenAppsRecon/demo/assets/142770538/821497c8-7a83-454f-818d-7483e1f2ecdc)
+    ![image](https://github.com/OpenAppsRecon/demo/assets/142770538/937bafb2-a588-4a1c-8aba-cc1c27686ab6)
+    ![image](https://github.com/OpenAppsRecon/demo/assets/142770538/6c3cb30d-6d0e-442a-9919-b63b8aea60ec)
 
-   install required packages
-   python.exe -m pip install SimpleITK 
-   python.exe -m pip install pydicom  
-   python.exe -m pip install numpy  
-   python.exe -m pip install matplotlib 
+8. Open File->Setting->Python Interpreter
+   ![image](https://github.com/OpenAppsRecon/demo/assets/142770538/abc0192f-0733-4ffb-b0c9-581f247b0755)
+
+   Point Python Interpreter toth directory where you have installed python.exe Step 2.
+9. Click on + symbole to add the following packages.
+    SimpleITK ,pydicom, numpy  ,matplotlib
+   ![image](https://github.com/OpenAppsRecon/demo/assets/142770538/68e95f54-4715-4a03-9de2-325ad1c9c76f)
+
    
    
-9.	Open a new project in Pycharm and add a new Python file.
+11.	Open a new project in Pycharm and add a new Python file.
   a.	Print(“Welcome to workshop on open recon/Apps”)
   b.	 Run the welcome.py file.
 
