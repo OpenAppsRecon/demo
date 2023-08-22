@@ -29,7 +29,12 @@ https://www.python.org/downloads/
 
 6. Click on the button  ![image](https://github.com/OpenAppsRecon/demo/assets/142770538/48018137-a52f-43cc-abd0-ed28e018b1b0) to open the project, below window appears
 
-7. Browse to the folder where you have downloaded the project from the Githut repository.
+7. Browse to the folder where you have downloaded the project from the GitHub repository.
+    ![image](https://github.com/OpenAppsRecon/demo/assets/33754175/4c9f152e-7c7b-495e-a8ea-ef9448b23f16)
+    ![image](https://github.com/OpenAppsRecon/demo/assets/33754175/2b8c2556-adfa-4b0c-ab60-9dc83d3eb25e)
+    ![image](https://github.com/OpenAppsRecon/demo/assets/33754175/8e74b232-e19d-4eca-bfb2-5e204394351f)
+8.  Click on "This Window" to open the project.
+
 
    install required packages
    python.exe -m pip install SimpleITK 
