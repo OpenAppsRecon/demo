@@ -13,8 +13,8 @@ The expected output:
 ![image](https://github.com/OpenAppsRecon/demo/assets/142770538/a38d85fa-d3ed-489d-9025-0b3a24114583)
 
 5. Modify the recon_nparray.py sample program according to your needs. For example, you can try inverting the data or implementing other changes.
-        data = np.abs(np.fft.ifftshift(np.fft.ifft2(self.rawdata_array)))        
-        # Normalize and convert to int16
+   
+        data = np.abs(np.fft.ifftshift(np.fft.ifft2(self.rawdata_array)))
         data *= 32767/data.max()
         data = np.around(data)
         data = data.astype(np.int16)
