@@ -6,7 +6,6 @@
 
 ## <a name='SetupEnvironment'></a>How to setup the Python environment
 
-open recon and open apps demo files
 1.	Download the PyCharm community edition and install it.
 https://www.jetbrains.com/pycharm/download/?section=windows
      * While installing PyCharm, please check the checkbox “Create Desktop Shortcut”.      
@@ -73,7 +72,8 @@ Enjoy the session
    ```
 5. Select the current file in ![image](https://github.com/OpenAppsRecon/demo/assets/142770538/b6fc629e-a4c2-4d9d-b0c2-c08e64a72e06) in the top right corner of the window
 6. Run the application by clicking the button ![image](https://github.com/OpenAppsRecon/demo/assets/142770538/57f76a87-b6fe-41e7-9b06-cb5cdbec9122) in the top right corner of the window
-7. You can also debug the applicaiton by clicking the button ![image](https://github.com/OpenAppsRecon/demo/assets/142770538/a2e80267-a69f-43d2-91e0-a8340d24ca6d) in the top right corner of the window  
+7. You can also debug the applicaiton by clicking the button ![image](https://github.com/OpenAppsRecon/demo/assets/142770538/a2e80267-a69f-43d2-91e0-a8340d24ca6d) in the top right corner of the window.
+8. Once you have implemented your modifications and tested by successfully running in your environment, please share the modified code with any member from Siemens team to integrate it in the open apps platform and test its performance on a clinic-like environment. 
 
 
 ### <a name='Exercise2'></a>Exercise 2: Integrating of reconstruction algo using Open Recon platform
@@ -100,4 +100,4 @@ Enjoy the session
 
 6. Open the nparray-call.py file in your Python IDE and execute it. For instructions on how to execute, refer to the instructions provided at https://github.com/OpenAppsRecon/demo.
 
-7. Once you have a working Python code (i.e., the modified recon_nparray.py), you can hand it over for integration.
+7. Once you have a working Python code (i.e., the modified recon_nparray.py), you can hand it over to anyone from Siemens team for integration and performance testing on open recon platform.
