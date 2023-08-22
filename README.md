@@ -44,9 +44,7 @@ https://www.python.org/downloads/
 
    
    
-11.	Open a new project in Pycharm and add a new Python file.
-  a.	Print(“Welcome to workshop on open recon/Apps”)
-  b.	 Run the welcome.py file.
+11.	Open helloworld/welcome.py and run file.
 
 Enjoy the session
 
