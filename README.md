@@ -3,15 +3,33 @@
 **[How to setup the python environment](#How-to-setup-the-python-environment)**<br>
 **[How to modify OpenApps sample](#How-to-modify-OpenApps-sample)**<br>
 
-## How to setup the python environment
+## How to setup the Python environment
 
 open recon and open apps demo files
 1.	Download the PyCharm community edition and install it.
 https://www.jetbrains.com/pycharm/download/?section=windows
-2.	Download Python and install it.
+     * While installing PyCharm, please check the checkbox “Create Desktop Shortcut”.      
+![image](https://github.com/OpenAppsRecon/demo/assets/142770538/58ae3a7e-2892-4405-a9e2-879fb0427db4)
+
+
+
+2.	Download Python and install it. Remember the path where Python is installed.
 https://www.python.org/downloads/
-3.	Point to Python installed directory in the command prompt.
-     ![image](https://github.com/punithbv06/open_recon_apps_demo/assets/33754175/47116361-4f7c-408f-94f5-a72619e9aa45)
+
+3. Open PyCharm by double-clicking on the icon (as shown below) on your desktop
+   ![image](https://github.com/OpenAppsRecon/demo/assets/142770538/3047ddad-19fc-4c68-8cce-b7dfef8de40e)
+
+4. When the PyCharm is started the first time after installation, the following popup will appear.
+        Please click OK and continue
+   ![image](https://github.com/OpenAppsRecon/demo/assets/142770538/58254e72-e9aa-4267-a1d2-27e23e97179d)
+
+5. PyCharm opens and it appears as shown below
+   
+     ![image](https://github.com/OpenAppsRecon/demo/assets/142770538/57e82f8b-f37e-4706-9df7-0e2511b26473)
+
+6. Click on the button  ![image](https://github.com/OpenAppsRecon/demo/assets/142770538/48018137-a52f-43cc-abd0-ed28e018b1b0) to open the project, below window appears
+
+7. Browse to the folder where you have downloaded the project from the Githut repository.
 
    install required packages
    python.exe -m pip install SimpleITK 
@@ -20,7 +38,7 @@ https://www.python.org/downloads/
    python.exe -m pip install matplotlib 
    
    
-5.	Open a new project in Pycharm and add a new Python file.
+9.	Open a new project in Pycharm and add a new Python file.
   a.	Print(“Welcome to workshop on open recon/Apps”)
   b.	 Run the welcome.py file.
 
