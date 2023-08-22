@@ -1,8 +1,8 @@
 # open research platform demo and hands on session
 ## Table of Contents
 **[How to setup the python environment](#SetupEnvironment)**<br>
-**[Exercise 1: Integrating post-processing algo using Open Apps platform](#Exercise1)**<br>
-**[Exercise 2: Integrating reconstruction algo using Open Recon platform](#Exercise2)**<br>
+**[Exercise 1: Integrating of post-processing algo using Open Apps platform](#Exercise1)**<br>
+**[Exercise 2: Integrating of reconstruction algo using Open Recon platform](#Exercise2)**<br>
 
 ## <a name='SetupEnvironment'></a>How to setup the Python environment
 
@@ -52,7 +52,7 @@ https://www.python.org/downloads/
 
 Enjoy the session
 
-### <a name='Exercise1'></a>Exercise 1: Integrating post-processing algo using Open Apps platform
+### <a name='Exercise1'></a>Exercise 1: Integrating of post-processing algo using Open Apps platform
 1. Browse the folder 'OpenApps' in Project pane present to the left of your workspace.
 2. Double click on the file 'main.py'
    ( *This is a sample program. 
@@ -76,7 +76,7 @@ Enjoy the session
 7. You can also debug the applicaiton by clicking the button ![image](https://github.com/OpenAppsRecon/demo/assets/142770538/a2e80267-a69f-43d2-91e0-a8340d24ca6d) in the top right corner of the window  
 
 
-### <a name='Exercise2'></a>Exercise 2: Integrating reconstruction algo using Open Recon platform
+### <a name='Exercise2'></a>Exercise 2: Integrating of reconstruction algo using Open Recon platform
 
 1. Make sure you have setup Python development environment. If not, refer to the instructions [above](#SetupEnvironment) for guidance on setting up the Python development environment.
 
