@@ -57,8 +57,12 @@ Enjoy the session
    ( *This is a sample program. 
      It reads 2 dicom series – T1 images and Flair images which are available in the 'data' folder, finds the difference between T1 and Flair images, displays the result in the pane right side of your window, 
      and converts the result which is in numpy array to DICOM images. Finally it exports the results to syngo via.* )
-3. Replace the logic of finding the difference between two images to your own logic. For instance thresholding, inverting, masking the images etc.
-   It can be done in the function ["def computeResult(t1_data, flair_data)"](https://github.com/OpenAppsRecon/demo/blob/main/OpenApps/main.py#L52) in the line number 52
+3. Run the application by clicking the button ![image](https://github.com/OpenAppsRecon/demo/assets/142770538/57f76a87-b6fe-41e7-9b06-cb5cdbec9122) in the top right corner of the window.
+   You will see the result as below. This shows the difference between two input images.
+   
+   ![image](https://github.com/OpenAppsRecon/demo/assets/142770538/8c6724f9-21e5-41ea-8de0-d2785e333f93)
+5. Replace the logic of finding the difference between two images to your own logic. For instance thresholding, inverting, masking the images etc.
+   It can be done in the function ["def computeResult(t1_data, flair_data)"](https://github.com/OpenAppsRecon/demo/blob/main/OpenApps/main.py#L52) in line number 52
   
    ```
      def computeResult(t1_data, flair_data):  
@@ -70,10 +74,10 @@ Enjoy the session
          Logger.info("Computation of result finished")
          return difference
    ```
-5. Select the current file in ![image](https://github.com/OpenAppsRecon/demo/assets/142770538/b6fc629e-a4c2-4d9d-b0c2-c08e64a72e06) in the top right corner of the window
-6. Run the application by clicking the button ![image](https://github.com/OpenAppsRecon/demo/assets/142770538/57f76a87-b6fe-41e7-9b06-cb5cdbec9122) in the top right corner of the window
-7. You can also debug the applicaiton by clicking the button ![image](https://github.com/OpenAppsRecon/demo/assets/142770538/a2e80267-a69f-43d2-91e0-a8340d24ca6d) in the top right corner of the window.
-8. Once you have implemented your modifications and tested by successfully running in your environment, please share the modified code with any member from Siemens team to integrate it in the open apps platform and test its performance on a clinic-like environment. 
+6. Select the current file in ![image](https://github.com/OpenAppsRecon/demo/assets/142770538/b6fc629e-a4c2-4d9d-b0c2-c08e64a72e06) in the top right corner of the window
+7. Run the application by clicking the button ![image](https://github.com/OpenAppsRecon/demo/assets/142770538/57f76a87-b6fe-41e7-9b06-cb5cdbec9122) in the top right corner of the window
+8. You can also debug the applicaiton by clicking the button ![image](https://github.com/OpenAppsRecon/demo/assets/142770538/a2e80267-a69f-43d2-91e0-a8340d24ca6d) in the top right corner of the window.
+9. Once you have implemented your modifications and tested by successfully running in your environment, please share the modified code with any member from Siemens team to integrate it in the open apps platform and test its performance on a clinic-like environment. 
 
 
 ### <a name='Exercise2'></a>Exercise 2: Integrating of reconstruction algo using Open Recon platform
